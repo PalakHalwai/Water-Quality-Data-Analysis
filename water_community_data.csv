@@ -1,0 +1,151 @@
+Respondent_ID,Age_Group,Primary_Water_Source,Purification_Method,Perceived_Quality,Reported_Health_Complaint
+R001,18–25,Public Standpost,RO/UV Filter,Bad Odor,None
+R002,Above 60,Municipal Pipe,Boiling,Turbid/Cloudy,None
+R003,41–60,Municipal Pipe,Boiling,Clear,None
+R004,26–40,Borewell,Boiling,Foul Taste,None
+R005,18–25,Public Standpost,Candle Filter,Clear,None
+R006,18–25,Municipal Pipe,None,Clear,Digestive/Stomach Issues
+R007,Below 18,Borewell,Boiling,Clear,None
+R008,41–60,Water Tanker,RO/UV Filter,Clear,None
+R009,26–40,Municipal Pipe,Candle Filter,Clear,Digestive/Stomach Issues
+R010,41–60,Water Tanker,RO/UV Filter,Clear,Digestive/Stomach Issues
+R011,Below 18,Municipal Pipe,Boiling,Clear,None
+R012,Above 60,Borewell,RO/UV Filter,Turbid/Cloudy,Skin Complaints
+R013,41–60,Borewell,RO/UV Filter,Turbid/Cloudy,Digestive/Stomach Issues
+R014,18–25,Borewell,None,Turbid/Cloudy,None
+R015,18–25,Municipal Pipe,None,Foul Taste,Skin Complaints
+R016,18–25,Water Tanker,Candle Filter,Clear,Fever/Typhoid
+R017,18–25,Municipal Pipe,Boiling,Clear,None
+R018,26–40,Municipal Pipe,RO/UV Filter,Bad Odor,None
+R019,26–40,Municipal Pipe,RO/UV Filter,Clear,Skin Complaints
+R020,18–25,Borewell,RO/UV Filter,Foul Taste,Digestive/Stomach Issues
+R021,26–40,Borewell,Boiling,Clear,None
+R022,18–25,Municipal Pipe,Candle Filter,Foul Taste,None
+R023,18–25,Borewell,Candle Filter,Clear,None
+R024,18–25,Municipal Pipe,RO/UV Filter,Bad Odor,Digestive/Stomach Issues
+R025,26–40,Borewell,None,Clear,Digestive/Stomach Issues
+R026,41–60,Municipal Pipe,Candle Filter,Foul Taste,None
+R027,18–25,Borewell,Boiling,Clear,Digestive/Stomach Issues
+R028,26–40,Municipal Pipe,Boiling,Turbid/Cloudy,Digestive/Stomach Issues
+R029,26–40,Public Standpost,Boiling,Foul Taste,None
+R030,Below 18,Municipal Pipe,RO/UV Filter,Clear,None
+R031,26–40,Municipal Pipe,Boiling,Turbid/Cloudy,Digestive/Stomach Issues
+R032,18–25,Municipal Pipe,Candle Filter,Turbid/Cloudy,Skin Complaints
+R033,Below 18,Public Standpost,RO/UV Filter,Clear,Digestive/Stomach Issues
+R034,Above 60,Public Standpost,RO/UV Filter,Turbid/Cloudy,Digestive/Stomach Issues
+R035,Above 60,Municipal Pipe,RO/UV Filter,Turbid/Cloudy,None
+R036,41–60,Borewell,RO/UV Filter,Foul Taste,None
+R037,18–25,Water Tanker,None,Clear,Digestive/Stomach Issues
+R038,Below 18,Borewell,Candle Filter,Clear,None
+R039,26–40,Borewell,Boiling,Foul Taste,None
+R040,26–40,Municipal Pipe,RO/UV Filter,Bad Odor,None
+R041,18–25,Municipal Pipe,Boiling,Clear,None
+R042,26–40,Public Standpost,Boiling,Turbid/Cloudy,None
+R043,Below 18,Public Standpost,RO/UV Filter,Clear,None
+R044,Above 60,Borewell,Boiling,Clear,None
+R045,18–25,Municipal Pipe,Boiling,Clear,None
+R046,26–40,Municipal Pipe,Boiling,Clear,Skin Complaints
+R047,18–25,Water Tanker,Boiling,Turbid/Cloudy,Digestive/Stomach Issues
+R048,26–40,Public Standpost,RO/UV Filter,Clear,Digestive/Stomach Issues
+R049,26–40,Public Standpost,Boiling,Foul Taste,Skin Complaints
+R050,18–25,Water Tanker,Boiling,Foul Taste,Digestive/Stomach Issues
+R051,Above 60,Borewell,Boiling,Turbid/Cloudy,None
+R052,41–60,Municipal Pipe,None,Clear,Digestive/Stomach Issues
+R053,Above 60,Municipal Pipe,Candle Filter,Clear,Digestive/Stomach Issues
+R054,41–60,Public Standpost,RO/UV Filter,Bad Odor,Digestive/Stomach Issues
+R055,26–40,Borewell,RO/UV Filter,Turbid/Cloudy,None
+R056,Above 60,Municipal Pipe,Boiling,Clear,None
+R057,Below 18,Municipal Pipe,RO/UV Filter,Foul Taste,None
+R058,18–25,Borewell,Boiling,Bad Odor,None
+R059,Below 18,Municipal Pipe,None,Foul Taste,Digestive/Stomach Issues
+R060,18–25,Municipal Pipe,Boiling,Turbid/Cloudy,Digestive/Stomach Issues
+R061,18–25,Borewell,Boiling,Turbid/Cloudy,None
+R062,18–25,Borewell,Boiling,Clear,Fever/Typhoid
+R063,41–60,Borewell,Boiling,Foul Taste,Digestive/Stomach Issues
+R064,18–25,Municipal Pipe,Boiling,Bad Odor,None
+R065,18–25,Water Tanker,None,Clear,None
+R066,26–40,Municipal Pipe,Boiling,Clear,None
+R067,18–25,Municipal Pipe,None,Clear,None
+R068,41–60,Water Tanker,None,Bad Odor,None
+R069,Below 18,Borewell,RO/UV Filter,Foul Taste,None
+R070,Above 60,Water Tanker,RO/UV Filter,Clear,None
+R071,41–60,Borewell,RO/UV Filter,Turbid/Cloudy,None
+R072,18–25,Borewell,RO/UV Filter,Clear,Skin Complaints
+R073,Below 18,Municipal Pipe,RO/UV Filter,Foul Taste,None
+R074,41–60,Municipal Pipe,Candle Filter,Bad Odor,Digestive/Stomach Issues
+R075,41–60,Municipal Pipe,RO/UV Filter,Bad Odor,None
+R076,41–60,Municipal Pipe,RO/UV Filter,Clear,Fever/Typhoid
+R077,41–60,Public Standpost,None,Clear,None
+R078,Below 18,Municipal Pipe,RO/UV Filter,Clear,None
+R079,18–25,Public Standpost,None,Clear,Fever/Typhoid
+R080,18–25,Borewell,RO/UV Filter,Bad Odor,Skin Complaints
+R081,41–60,Water Tanker,RO/UV Filter,Bad Odor,Skin Complaints
+R082,26–40,Borewell,Candle Filter,Foul Taste,None
+R083,18–25,Borewell,Boiling,Foul Taste,None
+R084,Below 18,Borewell,None,Turbid/Cloudy,Digestive/Stomach Issues
+R085,18–25,Municipal Pipe,Candle Filter,Bad Odor,Fever/Typhoid
+R086,18–25,Water Tanker,None,Foul Taste,Digestive/Stomach Issues
+R087,41–60,Municipal Pipe,RO/UV Filter,Bad Odor,Digestive/Stomach Issues
+R088,26–40,Municipal Pipe,RO/UV Filter,Clear,None
+R089,41–60,Borewell,Candle Filter,Clear,Skin Complaints
+R090,26–40,Municipal Pipe,None,Clear,None
+R091,18–25,Public Standpost,None,Foul Taste,None
+R092,41–60,Public Standpost,Boiling,Turbid/Cloudy,None
+R093,41–60,Public Standpost,Boiling,Clear,Digestive/Stomach Issues
+R094,26–40,Municipal Pipe,Candle Filter,Turbid/Cloudy,None
+R095,41–60,Municipal Pipe,RO/UV Filter,Turbid/Cloudy,None
+R096,26–40,Public Standpost,None,Clear,Digestive/Stomach Issues
+R097,26–40,Municipal Pipe,None,Clear,None
+R098,26–40,Public Standpost,Boiling,Turbid/Cloudy,Digestive/Stomach Issues
+R099,Below 18,Public Standpost,Candle Filter,Clear,None
+R100,18–25,Public Standpost,Candle Filter,Bad Odor,Digestive/Stomach Issues
+R101,Below 18,Municipal Pipe,RO/UV Filter,Clear,Digestive/Stomach Issues
+R102,26–40,Municipal Pipe,None,Bad Odor,None
+R103,18–25,Public Standpost,Boiling,Turbid/Cloudy,None
+R104,26–40,Municipal Pipe,None,Turbid/Cloudy,None
+R105,Above 60,Municipal Pipe,RO/UV Filter,Bad Odor,None
+R106,18–25,Borewell,None,Clear,Fever/Typhoid
+R107,26–40,Public Standpost,Boiling,Clear,None
+R108,41–60,Borewell,RO/UV Filter,Clear,Skin Complaints
+R109,18–25,Borewell,None,Bad Odor,None
+R110,Below 18,Municipal Pipe,RO/UV Filter,Turbid/Cloudy,Digestive/Stomach Issues
+R111,18–25,Borewell,RO/UV Filter,Turbid/Cloudy,Skin Complaints
+R112,18–25,Public Standpost,None,Clear,Digestive/Stomach Issues
+R113,Above 60,Municipal Pipe,None,Clear,Digestive/Stomach Issues
+R114,41–60,Borewell,Boiling,Clear,None
+R115,26–40,Public Standpost,Boiling,Clear,None
+R116,41–60,Water Tanker,Boiling,Turbid/Cloudy,Fever/Typhoid
+R117,41–60,Borewell,RO/UV Filter,Clear,Skin Complaints
+R118,18–25,Water Tanker,RO/UV Filter,Clear,Fever/Typhoid
+R119,41–60,Municipal Pipe,Candle Filter,Foul Taste,None
+R120,26–40,Municipal Pipe,Candle Filter,Clear,Digestive/Stomach Issues
+R121,41–60,Water Tanker,Candle Filter,Clear,Fever/Typhoid
+R122,41–60,Water Tanker,Candle Filter,Bad Odor,None
+R123,18–25,Public Standpost,RO/UV Filter,Clear,None
+R124,18–25,Public Standpost,Boiling,Turbid/Cloudy,Digestive/Stomach Issues
+R125,18–25,Borewell,RO/UV Filter,Bad Odor,Digestive/Stomach Issues
+R126,26–40,Borewell,Boiling,Foul Taste,Skin Complaints
+R127,41–60,Water Tanker,Boiling,Clear,None
+R128,41–60,Borewell,None,Foul Taste,Skin Complaints
+R129,Below 18,Water Tanker,Boiling,Clear,None
+R130,26–40,Water Tanker,RO/UV Filter,Clear,None
+R131,26–40,Public Standpost,RO/UV Filter,Clear,None
+R132,18–25,Municipal Pipe,Candle Filter,Foul Taste,Skin Complaints
+R133,18–25,Municipal Pipe,Boiling,Clear,Digestive/Stomach Issues
+R134,18–25,Municipal Pipe,RO/UV Filter,Clear,Digestive/Stomach Issues
+R135,Above 60,Borewell,RO/UV Filter,Turbid/Cloudy,None
+R136,18–25,Municipal Pipe,Candle Filter,Clear,Skin Complaints
+R137,26–40,Borewell,RO/UV Filter,Clear,None
+R138,41–60,Borewell,None,Clear,Skin Complaints
+R139,18–25,Municipal Pipe,Candle Filter,Clear,None
+R140,Above 60,Borewell,RO/UV Filter,Clear,None
+R141,Above 60,Municipal Pipe,RO/UV Filter,Clear,Digestive/Stomach Issues
+R142,18–25,Municipal Pipe,None,Turbid/Cloudy,None
+R143,26–40,Water Tanker,Boiling,Clear,Digestive/Stomach Issues
+R144,18–25,Municipal Pipe,Boiling,Clear,Digestive/Stomach Issues
+R145,18–25,Municipal Pipe,None,Bad Odor,None
+R146,Below 18,Borewell,None,Clear,Skin Complaints
+R147,26–40,Water Tanker,None,Turbid/Cloudy,None
+R148,26–40,Municipal Pipe,Candle Filter,Clear,Digestive/Stomach Issues
+R149,Below 18,Borewell,Boiling,Clear,Fever/Typhoid
+R150,18–25,Municipal Pipe,RO/UV Filter,Clear,Digestive/Stomach Issues
